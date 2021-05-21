@@ -1,8 +1,6 @@
-django-cardano
+Getting Started
 ==========================================
 
 .. toctree::
-
-	introduction
-	getting-started/index
-
+	installation
+	quickstart
