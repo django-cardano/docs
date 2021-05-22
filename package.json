@@ -1,0 +1,13 @@
+{
+  "name": "@django-cardano/docs",
+  "description": "django-cardano Documentation",
+  "version": "0.1.1",
+  "author": "Allan Hart",
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
+  },
+  "keywords": [
+    "django"
+  ],
+  "license": "BSD"
+}

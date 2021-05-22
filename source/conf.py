@@ -58,6 +58,10 @@ html_context = {
     'github_repo': 'django-cardano',
 }
 
+html_extra_path = [
+    '.nojekyll',
+]
+
 html_theme_options = {
     # 'analytics_id': 'UA-XXXXXXX-1',  #  Provided by Google in your dashboard
     # 'analytics_anonymize_ip': False,
